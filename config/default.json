@@ -1,0 +1,3 @@
+{
+    "mongoDbURI":"mongodb+srv://nazmulArdites:nazmulArdites@contactkeeper-ogfsd.mongodb.net/guard_keeper?retryWrites=true&w=majority"
+}
